@@ -1,0 +1,18 @@
+{
+  "structures": [
+    {
+      "structure": "pgdstructures:old_house",
+      "weight": 1
+    }
+  ],
+  "placement": {
+
+    "salt": 8921191874422,
+
+    "spacing": 20,
+
+    "separation": 6,
+
+    "type": "minecraft:random_spread"
+  }
+}
